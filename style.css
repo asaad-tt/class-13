@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    text-align: center;
+    color: #ffffff;
+    width: 1024px;
+    margin: 30px auto;
+}
+.menu{
+    background: #34495E;
+    padding: 40px;
+}
+.banner{
+    background: url(https://i.pinimg.com/originals/7a/81/24/7a81240359e212d40a665222ff3d13aa.jpg);
+    height: 200px;
+    padding: 40px;
+    padding-bottom:30px ;
+}
+.button{
+    width: 100px;
+    height: 39px;
+    background: #DB3345;
+    border-radius: 5px;
+    margin: 30px auto;
+}
+.button p{
+    padding: 10px;
+}
+.container{
+    background: #0363f3;
+    padding: 50px 30px;
+}
+.footer{
+    background: #188754;
+    padding: 20px;
+    color: #000000;
+}
+.sp{
+    color: rgba(25, 42, 86, 1 );
+}
